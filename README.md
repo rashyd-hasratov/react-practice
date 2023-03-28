@@ -33,7 +33,7 @@ Implement as much options below as you can:
 ## Instructions
 - Fork, clone and run `npm i`
 - fix the DEMO LINK below (use your github username and the repo name)
-  - [DEMO LINK](https://rashyd-hasratov.github.io/<your-repo-name>)
+  - [DEMO LINK](https://rashyd-hasratov.github.io/react-practice)
 - implement tasks one by one (You can do it in the `App.jsx`)
 - `commit`, `push` and `deploy` after each task
 - Send a message about solving the next step after each `push` and `deploy` to your personal Slack channel (for example #fe_jan23_illia_vovchenko) (e.g. Task 3 is done)
